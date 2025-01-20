@@ -133,7 +133,9 @@
   role: Lektorka/Koučka
   links:
   - mail-link: mailto:jegrovaeliska@seznam.cz
-
+  - linkedin-link: https://www.linkedin.com/in/eliska-jegrova-973940167/
+  - github-link: https://github.com/ejegrova/
+  
 #- name: Pavel Kocourek
 #  img: img/brno/team/pavelk.jpg
 #  role: Kouč
@@ -613,9 +615,9 @@
   - mail-link: antalovova@gmail.com
   - linkedin-link: https://www.linkedin.com/in/martina-ant/
 
-- name: Tomáš Hrnčiar
-  img: img/brno/team/blank.png
-  role: Kouč
+# - name: Tomáš Hrnčiar
+#  img: img/brno/team/blank.png
+#  role: Kouč
 
 - name: Martin Zelený
   img: img/brno/team/mzeleny.jpg
@@ -632,7 +634,7 @@
   - linkedin-link: https://www.linkedin.com/in/jiri-podivin-46601b156/
 
 - name: Pavlína Váňová
-  img: img/brno/team/blank.png
+  img: img/brno/team/pavlinav.jpg
   role: Organizátorka/Koučka
 
 - name: Boris Kolda
@@ -651,9 +653,9 @@
   img: img/brno/team/blank.png
   role: Koučka
 
-- name: Erik Belko
-  img: img/brno/team/blank.png
-  role: Kouč
+# - name: Erik Belko
+#  img: img/brno/team/blank.png
+#  role: Kouč
 
 - name: Barbora Baláková
   img: img/brno/team/blank.png
@@ -662,9 +664,28 @@
 - name: Daniela Drážná
   img: img/brno/team/Danuse.jpg
   role: Organizátorka
+  - linkedin-link: https://www.linkedin.com/in/daniela-902dd/
+  
 
 - name: Otakar Joch
   img: img/brno/team/otakar.jpg
   role: Kouč
   links:
-   - mail-link: mailto:turak97@gmail.com
+  - mail-link: mailto:turak97@gmail.com
+
+- name: Veronika Čierna
+  img: img/brno/team/veronika.jpg
+  role: Kouč
+
+- name: Ondra Vagner
+  img: img/brno/team/ondra.png
+  role: Kouč  
+  - linkedin-link: https://www.linkedin.com/in/ond%C5%99ej-vagner-38401458/
+
+- name: Tomáš Nevrlka
+  img: img/brno/team/tnevrlka.jpg
+  role: Lektor/Kouč
+  - linkedin-link: https://www.linkedin.com/in/tnevrlka
+  - github-link: https://github.com/tnevrlka
+
+  
